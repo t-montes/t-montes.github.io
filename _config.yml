@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tony Montes"
-description              : "CS BSc student"
+description              : "CS BS student"
 repository               : "t-montes/t-montes.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kkXzYuMAAAAJ"
   email            : "t.montes@uniandes.edu.co"
-  researchgate     :  "https://www.researchgate.net/profile/Tony-Montes-Buitrago" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "t-montes" # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/383/6962.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0002-9012-8384" # e.g., "https://orcid.org/xxxx"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -17,42 +17,53 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kkXzYuMAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kkXzYuMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Welcome! I am Tony, a final-year Systems and Electronics Engineering student at Universidad de los Andes and a researcher at the Center of Research and Formation in Artificial Intelligence (CinfonIA). Currently, I am a research intern at Cornell University and recently started to collaborate on research with a professor from the University of Illinois Chicago (UIC). My experience centers on NLP and GenAI, with a strong focus on developing reasoning capabilities for multimodal agents (image/video) to address complex real-world tasks and understand inherent semantics. My ongoing research and recent publications support this passion.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LChange 2024</div><img src='images/projects/SSD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Semantic Shift Detection for 19th Century Spanish](https://aclanthology.org/2024.nlp4dh-1.13.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tony Montes**, Laura Manrique-Gómez, Rubén Manrique
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=kkXzYuMAAAAJ&citation_for_view=kkXzYuMAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='kkXzYuMAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/historicalink/SSD-Old-Spanish) 
+- Implemented a pipeline for detection of semantic shifts (changes in meaning) between two datasets in the same language, employing contextual word embeddings with BERT (fine-tuned on the historical dataset) and KMeans clustering.
+- Tested the solution with the LSCDiscovery Binary Change Detection task, among different BERT-like models and clustering algorithms, and checked it's performance over 250 historic words.
+- Compiled the biggest 19th-century Spanish dataset with ~180M tokens, within 3 different sources: Project Gutenberg, The British Library Books, and LatamXIX.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLP4DH 2024</div><img src='images/projects/LLM-OCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[19th Century Latin American Spanish Newspaper Corpus with LLM OCR Correction](https://aclanthology.org/2024.nlp4dh-1.13.pdf)
+
+Laura Manrique-Gómez, **Tony Montes**, Arturo Rodríguez-Herrera, Rubén Manrique
+
+[**Dataset**](https://huggingface.co/datasets/Flaglab/latam-xix)
+- Developed a semi-automated methodology for correction of OCR errors and detection of surface forms in historical datasets, employing LLMs and a diff algorithm.
+- Applied the methodology to LatamXIX, a 19th-century Latin American Spanish newspaper corpus developed by _Laura Manrique-Gómez_, achieving the expected results checked by experts.
+</div>
+</div>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.01 - 2024.12*, Universidad de los Andes, BS, Systems and Computing Engineering
+- *2020.08 - 2024.12*, Universidad de los Andes, BS, Electronics Engineering
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🏢 Research Experience
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Research Intern*, Cornell University
+  * Researcher at the ECE department,advised by Prof. [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/), employing language models for 3D-asset and image compression and controlled diffusion models for decompression with semantics and canny edge maps
+
+- *External Researcher*, University of Illinois Chicago
+  * Researcher advised by Prof. [Moontae Lee](https://moontae.people.uic.edu/), working on an agent Web-RAG-based solution for code assistance on completion, fixing and solving tasks.
+
+- *Research Assistant*, Universidad de los Andes
+  * Center of Research and Formation in Artificial Intelligence (CinfonIA) in the Historical Ink project, advised by Prof. [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique)
+
+- *BS Student*, Universidad de los Andes
+  * Systems and Computing Engineering thesis: "_Semantic Shift Detection for 19th Century Spanish_", advised by Prof. [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique)
+  * Electronics Engineering thesis: "_ViQAgent: Zero-Shot Video Question Answering via Agent with Open-Vocabulary Grounding Validation_", advised by Prof. [Fernando Lozano](https://academia.uniandes.edu.co/AcademyCv/flozano)
