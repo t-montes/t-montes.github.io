@@ -6,19 +6,19 @@ main:
 #  - title: "News"
 #    url: "/#-news"
 
-  - title: "Publications"
+  - title: "Research"
     url: "/#-publications"
 
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
 
-  - title: "Research Experience"
+  - title: "Experience"
     url: "/#-research-experience"
 
   - title: "Portfolio"

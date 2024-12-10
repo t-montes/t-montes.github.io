@@ -19,12 +19,12 @@ redirect_from:
 
 Welcome! I am Tony, a final-year Systems and Electronics Engineering student at Universidad de los Andes and a researcher at the Center of Research and Formation in Artificial Intelligence (CinfonIA). Currently, I am a research intern at Cornell University and recently started to collaborate on research with a professor from the University of Illinois Chicago (UIC). My experience centers on NLP and GenAI, with a strong focus on developing reasoning capabilities for multimodal agents (image/video) to address complex real-world tasks and understand inherent semantics. My ongoing research and recent publications support this passion.
 
-# 📝 Publications 
+# 📄 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LChange 2024</div><img src='images/projects/SSD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semantic Shift Detection for 19th Century Spanish](https://aclanthology.org/2024.nlp4dh-1.13.pdf)
+[Semantic Shift Detection for 19th Century Spanish](https://aclanthology.org/2024.lchange-1.4.pdf)
 
 **Tony Montes**, Laura Manrique-Gómez, Rubén Manrique
 
@@ -49,7 +49,7 @@ Laura Manrique-Gómez, **Tony Montes**, Arturo Rodríguez-Herrera, Rubén Manriq
 </div>
 </div>
 
-# 📖 Educations
+# 📖 Education
 - *2020.01 - 2024.12*, Universidad de los Andes, BS, Systems and Computing Engineering
 - *2020.08 - 2024.12*, Universidad de los Andes, BS, Electronics Engineering
 
@@ -59,11 +59,11 @@ Laura Manrique-Gómez, **Tony Montes**, Arturo Rodríguez-Herrera, Rubén Manriq
   * Researcher at the ECE department,advised by Prof. [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/), employing language models for 3D-asset and image compression and controlled diffusion models for decompression with semantics and canny edge maps
 
 - *External Researcher*, University of Illinois Chicago
-  * Researcher advised by Prof. [Moontae Lee](https://moontae.people.uic.edu/), working on an agent Web-RAG-based solution for code assistance on completion, fixing and solving tasks.
+  * Researcher advised by Prof. [Moontae Lee](https://moontae.people.uic.edu/), working on an agent Web-RAG-based solution for code assistance on completion, fixing and solving tasks
 
 - *Research Assistant*, Universidad de los Andes
-  * Center of Research and Formation in Artificial Intelligence (CinfonIA) in the Historical Ink project, advised by Prof. [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique)
+  * Researcher at the Center of Research and Formation in Artificial Intelligence (CinfonIA) in the Historical Ink project, led by Prof. [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique)
 
 - *BS Student*, Universidad de los Andes
   * Systems and Computing Engineering thesis: "_Semantic Shift Detection for 19th Century Spanish_", advised by Prof. [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique)
-  * Electronics Engineering thesis: "_ViQAgent: Zero-Shot Video Question Answering via Agent with Open-Vocabulary Grounding Validation_", advised by Prof. [Fernando Lozano](https://academia.uniandes.edu.co/AcademyCv/flozano)
+  * Electronics Engineering thesis: "_Zero-Shot Video Question Answering via Agent with Open-Vocabulary Grounding Validation_", advised by Prof. [Fernando Lozano](https://academia.uniandes.edu.co/AcademyCv/flozano)
